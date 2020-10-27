@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Meskipun di musim pandemi Covid-19 belum reda, Politeknik Negeri Jember
+        (Polije) masih konsisten melaksanakan seleksi penerimaan mahasiswa baru (maba) jalur Mandiri
+        2020 sesuai jadwal yang sudah ditentukan. Proses seleksi dilaksanakan dengan metode CBT
+        (Computer Based Test), sedangkan pengawasannya dengan menggunakan aplikasi Zoom.
+
+        Ketika prosesi ujian dimulai pada jam 08.30 WIB, diruang pusat komando dan pengendalian
+        pelaksanaan tes, tampak beberapa pengawas dan panitia intensif memantau kehadiran,
+        mencocokkan data dan wajah peserta di kartu peserta dengan wajah di video aplikasi Zoom
+        serta memantau aktifitas peserta selama mengerjakan naskah ujian.
+
+        “Pelaksanaan tes jalur Mandiri dilaksanakan secara daring. Untuk menjaga kredibilitas tes
+        dilaksanakan pengawasan dengan aplikasi Zoom”, terang Wahyu Kurnia Dewanto, S.Kom, MT.
+        menurutnya dengan tes sistem daring ini, peran dan kejelian pengawas sangat penting, agar
+        kesempatan perjokian bisa di minimalkan.
+
+        Seleksi maba jalur Mandiri, dilaksanakan dalam 2 kelompok ujian, kelompok Rekayasa dan
+        Pertanian dilaksanakan mulai jam 08.30 WIB, sedangkan kelompok Tata Niaga dilaksanakan mulai
+        jam 13.00 WIB. Setiap sesi ujian disediakan waktu 150 menit untuk mengerjakan 100 naskah
+        soal.
+
+        “Mengingat tes berbasis computer secara daring masih baru pertama dilakukan, apalagi
+        sebagian besar peserta belum mempunyai pengalaman, maka 2 hari sebelum tes peserta diberikan
+        kesempatan untuk melakukan simulasi, terutama dalam penggunaan username dan password tautan
+        ujian maupun ID meeting dan password aplikasi zoom”, papar Wahyu Kurnia.
+
+        Pengumuman jalur Mandiri ini akan dilaksanakan pada Minggu, 30 Agustus 2020 sedangkan daftar
+        ulangnya akan dilaksanakan mulai 31 Agustus sampai dengan 5 September 2020. Jalur Mandiri
+        merupakan jalur seleksi terakhir, yang jumlah kuotanya untuk melengkapi kuota maba 2020,
+        yang sebelumnya sudah dilakukan melalui jalur PMDK-PA, SNMPN, SBMPN dan SBMPTN.
+
+        Menurut Kepala Unit Humas dan Kerjasama Mahsus Nurmanto, bahwa di musim pandemi Covid-19 ini
+        jadwal foto KTM dan pengukuran jas almamater mulai jalur seleksi maba PMDK-PA sampai jalur
+        Mandiri sementara ditunda sampai kondisi memungkinkan para maba datang ke kampus.
+
+        “Jadwal lanjutan prosesi penerimaan semua maba, mulai dari orientasi maba atau Pengenalan
+        Kehidupan Kampus bagi Mahasiswa Baru atau PKKMB maupun perkuliahannya juga dilaksanakan
+        secara daring”, tandas Mahsus Nurmanto. Menurutnya para maba sangat dianjurkan untuk selalu
+        memantau setiap tahapan kegiatan yang berkaitan dengan maba melalui pengumuman di laman
+        resmi Polije maupun informasi melalui media sosial."
+
+        android:textSize="24sp">
+    </TextView>
+</ScrollView>
